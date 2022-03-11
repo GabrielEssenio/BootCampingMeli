@@ -9,4 +9,5 @@ Este repositorio contem os exercicios dos modulos praticados na Digital House pa
 - [Java]
 - [POO]
 
-- [Gabriel Essênio Dias Castro]
+
+### Gabriel Essênio Dias Castro
