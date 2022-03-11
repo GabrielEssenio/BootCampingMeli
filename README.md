@@ -4,9 +4,9 @@ Este repositorio contem os exercicios dos modulos praticados na Digital House pa
 
 ### 🛠 Conteudos Ensinados até o momento
 
--[Fury]
--[Git]
--[Java]
--[POO]
+- [Fury]
+- [Git]
+- [Java]
+- [POO]
 
-#Gabriel Essênio Dias Castro
+- [Gabriel Essênio Dias Castro]
