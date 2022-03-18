@@ -17,19 +17,19 @@ public class Decodificando {
                 }
                 return result.toString();
             }
-//            public static void englishToMorse(String[] code,
-//                                              String englishLang,
-//                                              char[] letter)
-//            {
-//                System.out.print("Morse code of " + englishLang
-//                        + " is ");
-//                for (int i = 0; i < englishLang.length(); i++) {
-//                    for (int j = 0; j < letter.length; j++) {
-//                        if (englishLang.charAt(i) == letter[j]) {
-//                            System.out.print(code[j] + " ");
-//                            break;
-//                        }
-//                    }
-//                }
-//            }
+            public static String englishToMorse(String[] code,
+                                              String englishLang,
+                                              char[] letter)
+            {
+                StringBuilder result = new StringBuilder();
+                for (int i = 0; i < englishLang.length(); i++) {
+                    for (int j = 0; j < letter.length; j++) {
+                        if (englishLang.charAt(i) == letter[j]) {
+                            result.append(code[j]).append(" ");
+                            break;
+                        }
+                    }
+                }
+                return result.toString();
+            }
 }
