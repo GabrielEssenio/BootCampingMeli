@@ -1,0 +1,1 @@
+select title as titulo from series;
